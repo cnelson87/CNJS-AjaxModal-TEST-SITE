@@ -1,0 +1,17 @@
+{
+	"name": "CNJS-AjaxModal-TEST-SITE",
+	"version": "0.1.0",
+	"main": "Gruntfile.js",
+	"portNumber": 3636,
+	"livereloadPortNum": 36363,
+	"devDependencies": {
+		"grunt": "~0.4.4",
+		"grunt-bower": "~0.13.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cnelson87/CNJS-AjaxModal-TEST-SITE"
+	},
+	"author": "cnelson87@gmail.com",
+	"readmeFilename": "README.md"
+}

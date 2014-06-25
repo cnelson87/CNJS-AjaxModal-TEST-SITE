@@ -1,0 +1,9 @@
+{
+	"name": "CNJS-AjaxModal-TEST-SITE",
+	"version": "0.1.0",
+	"main": "Gruntfile.js",
+	"dependencies": {
+		"jquery": "~2.1.1",
+		"CNJS-AjaxModal": ""
+	}
+}
